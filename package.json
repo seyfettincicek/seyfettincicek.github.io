@@ -80,6 +80,7 @@
     "extend": "^3.0.0",
     "file-loader": "^0.9.0",
     "gaze": "^1.1.1",
+    "gh-pages": "^3.1.0",
     "git-repository": "^0.1.4",
     "glob": "^7.0.6",
     "json-loader": "^0.5.4",
