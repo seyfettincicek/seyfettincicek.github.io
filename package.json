@@ -1,6 +1,5 @@
 {
-  "name": "seyfis",
-  "homepage": "https://seyfettincicek.github.io/seyfis",
+  "name": "seyfis", 
   "version": "0.1.0",
   "private": true,
   "dependencies": {
